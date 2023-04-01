@@ -1,12 +1,15 @@
 # front-prompt-hub
 
-# 프롬프트 허브
+# prompt hub
 
 `ChatGpt`의 엄청난 인기로 `gpt` 를 잘 쓰기 위한 프롬프트가 많아지고 있음. <br/>
 이러한 프롬프트를 한 곳에 모아두고 공유할 수 있는 싸이트를 만들어 보면 어떨까함! <br/>
 오픈 소스 개념처럼 오픈 프롬프트 기반의 공유 프로젝트라고 생각하면 될 듯함!
 
-## 구성 (예상도)
+## tech
+`javascript`, `html`, `css` `react v18`, `yarn berry`, `node v18` 
+
+## composition
 
 1. 사용자들이 프롬프트를 저장하는 저장소가 됨
 2. 해당 프롬프트는 public 하되, private 하고 싶다면 할 수 있게 해줌.
